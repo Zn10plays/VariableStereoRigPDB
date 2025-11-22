@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Rudra Patel
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+This project aims to create a PDB board for a variable stereo vision camera rig consisting of many motors and a raspberry pi and usb cameras.
 
 # Date Started
-11-16-2000
+11/22/2025
