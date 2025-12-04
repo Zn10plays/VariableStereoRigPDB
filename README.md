@@ -1,7 +1,7 @@
 ## Members
 Rudra Patel, Computer Science Student (2024)
 rudra24@vt.edu
-
+David Wang, Electrical and Computer Engineering Student (2024) davidw24@vt.edu 
 
 ## Mentor
 Unassigned
